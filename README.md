@@ -7,4 +7,5 @@ igoist 个人向 NodeJS 学习计划
 
 **清单**
 
+* path -- 路径
 * timer -- 定时器
