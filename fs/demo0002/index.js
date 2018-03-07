@@ -6,51 +6,55 @@ const fs = require('fs');
 const path = require('path');
 
 let objs = [];
+let count = 0;
 
-const dirPath = '/Users/Egoist/Documents/Pictures';
+const dirPath = '/Users/Egoist/Documents/Pictures/';
 
-fs.readdir(dirPath, (err, files) => {
-  if (err) throw err;
+/**
+ * ...
+ * @param {*} dirPath
+ */
+let dirRead = dirPath => {
+  fs.readdir(dirPath, (err, files) => {
+    // if (err) throw err;
+    if (err) return;
+    let flag = true;
 
-  files.map(file => {
+    files.map(file => {
 
-    if (file.match(/^\..*/)) {
-      console.log('this file match the regex: ', file);
-      return;
-    }
+      if (file.match(/^\..*/)) {
+        console.log('this file match the regex: ', path.resolve(dirPath, file));
+        return;
+      }
 
-    const extname = path.extname(file).trim().toLocaleLowerCase();
-    console.log(path.extname(file));
+      const extname = path.extname(file).trim().toLocaleLowerCase();
+      // console.log(path.extname(file));
 
-    if (extname === '.jpg' || extname === '.png') {
-      objs.push({
-        basename: file
-      })
-    } else if (!extname) {
-      let childDirPath = path.resolve(dirPath, file);
-      console.log('this is a dir: ', childDirPath);
-      fs.readdir(childDirPath, (err, files) => {
+      if (extname === '.jpg' || extname === '.png') {
+        objs.push({
+          path: path.resolve(dirPath, file)
+        });
+        console.log(file, ++count);
+      } else if (!extname) {
+        flag = false;
+        let childDirPath = path.resolve(dirPath, file);
+        console.log('this is a dir: ', childDirPath);
+        dirRead(childDirPath);
+      }
+    });
+
+    if (flag) {
+      let map = {
+        // dirname: dirPath,
+        imgs: objs
+      }
+
+      fs.writeFile('map.json', JSON.stringify(map, ['dirname', 'imgs', 'basename', 'path'], 2), err => {
         if (err) throw err;
-
-        files.map(file => {
-          if (file.match(/^\..*/)) {
-            console.log('this file match the regex: ', path.resolve(childDirPath, file));
-            return;
-          }
-
-          console.log(childDirPath, file);
-        })
+        console.log('The file has been saved!');
       });
     }
   });
+};
 
-  let map = {
-    dirname: dirPath,
-    imgs: objs
-  }
-
-  fs.writeFile('map.json', JSON.stringify(map, ['dirname', 'imgs', 'basename'], 2), err => {
-    if (err) throw err;
-    console.log('The file has been saved!');
-  });
-});
+dirRead(dirPath);
