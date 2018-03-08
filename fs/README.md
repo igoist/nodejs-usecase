@@ -18,3 +18,4 @@
 * demo0000 -- Basic
 * demo0001 -- writeFile & readFile
 * demo0002 -- readdir
+* demo0003 -- rename
