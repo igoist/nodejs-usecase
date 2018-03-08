@@ -8,7 +8,7 @@ const path = require('path');
 let objs = [];
 let count = 0;
 
-const dirPath = '/Users/Egoist/Documents/Pictures/';
+const rootPath = '/Users/Egoist/Documents/Pictures/';
 
 /**
  * ...
@@ -23,29 +23,32 @@ let dirRead = dirPath => {
     files.map(file => {
 
       if (file.match(/^\..*/)) {
-        console.log('this file match the regex: ', path.resolve(dirPath, file));
+        // console.log('this file match the regex: ', path.resolve(dirPath, file));
         return;
       }
 
       const extname = path.extname(file).trim().toLocaleLowerCase();
       // console.log(path.extname(file));
 
-      if (extname === '.jpg' || extname === '.png') {
+      // if (extname === '.jpg' || extname === '.png') {
+      if (extname === '.jpg' || extname === '.jpeg') {
+        let nowPath = path.resolve(dirPath, file);
+        let relativePath = path.relative(rootPath, nowPath);
+
         objs.push({
-          path: path.resolve(dirPath, file)
+          path: relativePath
         });
-        console.log(file, ++count);
+        console.log('file', ++count, ': ', file);
       } else if (!extname) {
         flag = false;
         let childDirPath = path.resolve(dirPath, file);
-        console.log('this is a dir: ', childDirPath);
+        // console.log('this is a dir: ', childDirPath);
         dirRead(childDirPath);
       }
     });
 
     if (flag) {
       let map = {
-        // dirname: dirPath,
         imgs: objs
       }
 
@@ -57,4 +60,4 @@ let dirRead = dirPath => {
   });
 };
 
-dirRead(dirPath);
+dirRead(rootPath);
