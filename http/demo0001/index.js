@@ -11,11 +11,12 @@ const path = require('path');
 const perPage = 20;
 
 const cdnPath = 'http://img.hb.aicdn.com/';
-
+const downloadPath = './img';
 
 let getPageImgs = (pageNum, perPage) => {
   // http://huaban.com/search/?q=%E7%85%A7%E7%89%87%E5%A2%99&jegvhmak&page=1&per_page=20&wfl=1
   let url = 'http://huaban.com/search/?q=%E7%85%A7%E7%89%87%E5%A2%99&jegvhmak&page=' + pageNum + '&per_page=' + perPage + '&wfl=1';
+  {/* let url = 'http://huaban.com/search/?q=geek&page=' + pageNum + '&per_page=' + perPage + '&wfl=1'; */}
 
   http.get(url, res => {
 
@@ -53,7 +54,7 @@ let getPageImgs = (pageNum, perPage) => {
       ret.map((i, index) => {
         let tmpUrl = cdnPath + i.file.key;
 
-        downloadImg('./img/', tmpUrl);
+        downloadImg(downloadPath, tmpUrl);
       });
 
       // 将获得的 JSON 对象写入 map，暂时注释掉
