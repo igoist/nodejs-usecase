@@ -7,3 +7,5 @@ data/
 
 *.json
 *.sed
+
+info.js
