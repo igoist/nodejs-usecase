@@ -55,6 +55,7 @@ let wrap = (page) => {
       anchors.push(...res);
       wrap(page);
     } else {
+      anchors.push(...res);
       console.log(`page${page} complete`);
       saveFile(anchors);
     }
