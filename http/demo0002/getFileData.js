@@ -69,6 +69,7 @@ let wrap = (n) => {
        * mobileTitle
        * imgPast
        * anchor.avatar
+       * course.courseWaves
        */
 
       for (let i = 0; i < 6; i++) {
@@ -86,12 +87,15 @@ let wrap = (n) => {
       // console.log(arrFilesId);
       // console.log(arrFiles);
 
+      if (res.course.courseWaves) {
+        console.log(res.course.courseWaves);
+      }
       n = n + 1;
       wrap(n);
     } else {
       console.log(`page${n} complete`);
       // console.log(arrFilesId);
-      saveFile(arrFiles);
+      // saveFile(arrFiles);
     }
   });
 };
