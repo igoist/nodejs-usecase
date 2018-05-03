@@ -1,13 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 
-const fileName = 'data/data-files-old.json';
-
-// import info from './info';
-
-// let headers = {
-//   'Cookie': info.cookie,
-// };
+const fileName = 'data/data-files.json';
 
 let getData = (num) => {
   return new Promise(resolve => {
@@ -55,6 +49,23 @@ let attrTable = [
   'imgPast'
 ];
 
+let handleUrl = () => {
+  let regex = /\/\/(\w+-\w+)\.b0\.upaiyun\.com\/(\w+)/;
+
+  for (let i = 0; i < arrFiles.length; i++) {
+    let ret = regex.exec(arrFiles[i].url);
+
+    let bucket = ret[1];
+    let key = ret[2];
+
+    console.log(bucket, key);
+
+    arrFiles[i].bucket = bucket;
+    arrFiles[i].key = key;
+    delete arrFiles[i].url;
+  }
+};
+
 let wrap = (n) => {
 
   getData(arrLive[n]).then(res => {
@@ -84,18 +95,24 @@ let wrap = (n) => {
         arrFilesId[res.anchor.avatar.id] = res.anchor.avatar.id;
       }
 
-      // console.log(arrFilesId);
-      // console.log(arrFiles);
-
-      // if (res.course.courseWaves) {
-      //   console.log(res.course.courseWaves);
-      // }
+      if (res.course.courseWaves.length) {
+        let courseWaves = res.course.courseWaves;
+        for (let i = 0; i < courseWaves.length; i++) {
+          if (!arrFilesId[courseWaves[i].id]) {
+            arrFiles.push(courseWaves[i]);
+            arrFilesId[courseWaves[i]] = courseWaves[i];
+            // console.log(courseWaves[i]);
+          }
+        }
+      }
 
       n = n + 1;
       wrap(n);
     } else {
       console.log(`page${n} complete`);
       // console.log(arrFilesId);
+
+      handleUrl();
       // saveFile(arrFiles);
     }
   });

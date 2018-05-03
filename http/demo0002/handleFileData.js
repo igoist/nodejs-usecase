@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const oldFileName = 'data/data-files.json';
+const oldFileName = 'data/data-files-old.json';
 const newFileName = 'data/data-files-handled.json';
 
 fs.readFile(oldFileName, (err, data) => {
