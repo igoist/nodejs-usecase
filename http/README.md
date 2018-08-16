@@ -9,3 +9,5 @@ Node.js 中的 HTTP 接口被设计成支持协议的许多特性。 比如，�
 
 * demo0000 -- Basic（暂无）
 * demo0001 -- get(like downloading specific path's imgs, api datas, ...)
+* demo0002 -- spider
+* demo0003 -- new spider
