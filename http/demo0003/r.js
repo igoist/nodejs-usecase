@@ -2,7 +2,24 @@ const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const fileName = `data/data-${ +new Date() }.json`;
+const doubanArr = [
+  {
+    name: 'd00',
+    param: '145219'
+  },
+  {
+    name: 'd01',
+    param: 'HZhome'
+  },
+  {
+    name: 'd02',
+    param: 'hzhouse'
+  }
+]
+
+const doubanFlag = 2;
+
+const fileName = `data/data-${ doubanArr[doubanFlag].name }-${ +new Date() }.json`;
 
 // const url = 'https://cnodejs.org/api/v1/topics?page=1&tab=share&limit=2';
 // const url = 'https://www.douban.com/group/topic/114702883/';
@@ -30,7 +47,7 @@ let getData = (page) => {
           'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.110 Safari/537.36',
           'Content-Type': 'application/x-www-form-urlencoded'
         },
-        uri: `https://www.douban.com/group/145219/discussion?start=${page * perPage}`,
+        uri: `https://www.douban.com/group/${ doubanArr[doubanFlag].param }/discussion?start=${page * perPage}`,
         method: 'GET'
       }, function (error, response, body) {
       // console.log('error:', error); // Print the error if one occurred
