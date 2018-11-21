@@ -1,0 +1,2980 @@
+[
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/f5d5f51b941c01f8b90b361b412dc75ecc2608d3.png",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24588",
+    "media_id": 102392,
+    "order": {
+      "follow": "586.8万人追番",
+      "play": "1.3亿次播放",
+      "pub_date": 1530979200,
+      "pub_real_time": 1530979200,
+      "renewal_time": 1538238600,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 24588,
+    "title": "工作细胞"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/a79e331b7443ed5df5a2acd345dc41d598d46ff9.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6339",
+    "media_id": 6339,
+    "order": {
+      "follow": "416.6万人追番",
+      "play": "9448.9万次播放",
+      "pub_date": 1499875200,
+      "pub_real_time": 1499875200,
+      "renewal_time": 1506531600,
+      "score": "8.4分",
+      "type": "follow"
+    },
+    "season_id": 6339,
+    "title": "欢迎来到实力至上主义的教室"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/a223b1376633625be1cd214c34d8bf34a1e03770.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5997",
+    "media_id": 5997,
+    "order": {
+      "follow": "402.9万人追番",
+      "play": "9526.9万次播放",
+      "pub_date": 1491667200,
+      "pub_real_time": 1491667200,
+      "renewal_time": 1498323600,
+      "score": "8.5分",
+      "type": "follow"
+    },
+    "season_id": 5997,
+    "title": "埃罗芒阿老师"
+  },
+  {
+    "badge": "付费观看",
+    "badge_type": 2,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/b6e3986355efc081b7f4aaf9f576c9ce8116e193.jpg",
+    "index_show": "全14话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21542",
+    "media_id": 8892,
+    "order": {
+      "follow": "397.4万人追番",
+      "play": "5288.7万次播放",
+      "pub_date": 1515600000,
+      "pub_real_time": 1515600000,
+      "renewal_time": 1538913600,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 21542,
+    "title": "紫罗兰永恒花园"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/7c1f3ca60da441ffbc2425409ee2a5c379264568.jpg",
+    "index_show": "全25话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3461",
+    "media_id": 3461,
+    "order": {
+      "follow": "387.7万人追番",
+      "play": "1.6亿次播放",
+      "pub_date": 1459699200,
+      "pub_real_time": 1459699200,
+      "renewal_time": 1474218310,
+      "score": "8.9分",
+      "type": "follow"
+    },
+    "season_id": 3461,
+    "title": "Re：从零开始的异世界生活"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/320a6c9893a874e7db755ecb7316a0d0abccec49.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5800",
+    "media_id": 5800,
+    "order": {
+      "follow": "366.8万人追番",
+      "play": "1.1亿次播放",
+      "pub_date": 1484064000,
+      "pub_real_time": 1484064000,
+      "renewal_time": 1491410100,
+      "score": "9.3分",
+      "type": "follow"
+    },
+    "season_id": 5800,
+    "title": "小林家的龙女仆"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/14ba6643f22405e2777cca992002cc6411601334.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3450",
+    "media_id": 3450,
+    "order": {
+      "follow": "355万人追番",
+      "play": "1.2亿次播放",
+      "pub_date": 1460044800,
+      "pub_real_time": 1460044800,
+      "renewal_time": 1475935210,
+      "score": "8.7分",
+      "type": "follow"
+    },
+    "season_id": 3450,
+    "title": "在下坂本，有何贵干？"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/851f979c8ebcc7583a43abd4b786c4e2e66b746b.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21466",
+    "media_id": 8792,
+    "order": {
+      "follow": "341.7万人追番",
+      "play": "1.3亿次播放",
+      "pub_date": 1515427200,
+      "pub_real_time": 1515427200,
+      "renewal_time": 1522767600,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 21466,
+    "title": "OVERLORDⅡ"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/b308ed7b60b8f7ff70f8a122adeb75914702611f.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24596",
+    "media_id": 102252,
+    "order": {
+      "follow": "340.1万人追番",
+      "play": "1.2亿次播放",
+      "pub_date": 1531152000,
+      "pub_real_time": 1531152000,
+      "renewal_time": 1538490600,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 24596,
+    "title": "OVERLORD Ⅲ"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/e4edc4b821e92840453fe6e36ade81d92e85d0bc.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6446",
+    "media_id": 6446,
+    "order": {
+      "follow": "324.2万人追番",
+      "play": "6683.4万次播放",
+      "pub_date": 1507392000,
+      "pub_real_time": 1507392000,
+      "renewal_time": 1514129399,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 6446,
+    "title": "干物妹！小埋R"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/1804e361cc9fefad1fd8be8245f3b35ff685ae1a.jpg",
+    "index_show": "全25话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6301",
+    "media_id": 6301,
+    "order": {
+      "follow": "310.9万人追番",
+      "play": "9662.1万次播放",
+      "pub_date": 1498924800,
+      "pub_real_time": 1498924800,
+      "renewal_time": 1514651400,
+      "score": "5.1分",
+      "type": "follow"
+    },
+    "season_id": 6301,
+    "title": "Fate/Apocrypha"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/911c5a54441d614ac53b46574838d4721a80cf98.jpg",
+    "index_show": "更新至第7话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss25510",
+    "media_id": 130412,
+    "order": {
+      "follow": "306万人追番",
+      "play": "2914.5万次播放",
+      "pub_date": 1538841600,
+      "pub_real_time": 1538841600,
+      "renewal_time": 1542472200,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 25510,
+    "title": "刀剑神域 Alicization"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/0f11dfac18d744518669b2d211263f03d41d619c.png",
+    "index_show": "全16话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24625",
+    "media_id": 102792,
+    "order": {
+      "follow": "296.3万人追番",
+      "play": "5816.8万次播放",
+      "pub_date": 1530806400,
+      "pub_real_time": 1530806400,
+      "renewal_time": 1540566000,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 24625,
+    "title": "Angels of Death"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/716297d3ec59a00817ef54ad1aa842231a913b25.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6312",
+    "media_id": 6312,
+    "order": {
+      "follow": "273.1万人追番",
+      "play": "5261.1万次播放",
+      "pub_date": 1499097600,
+      "pub_real_time": 1499097600,
+      "renewal_time": 1505831400,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 6312,
+    "title": "徒然喜欢你"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/a4c0e0ccc44fe3949a734f546cf5bb07da925bad.png",
+    "index_show": "更新至第8话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss25739",
+    "media_id": 139252,
+    "order": {
+      "follow": "262.3万人追番",
+      "play": "3352.5万次播放",
+      "pub_date": 1538409600,
+      "pub_real_time": 1538409600,
+      "renewal_time": 1542645000,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 25739,
+    "title": "关于我转生变成史莱姆这档事"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/207b3c90f16629eb54f060d54d5efb7d29bb9563.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2580",
+    "media_id": 2580,
+    "order": {
+      "follow": "261.6万人追番",
+      "play": "9386.6万次播放",
+      "pub_date": 1436284800,
+      "pub_real_time": 1436284800,
+      "renewal_time": 1443035640,
+      "score": "8.9分",
+      "type": "follow"
+    },
+    "season_id": 2580,
+    "title": "干物妹！小埋"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/3944fe0b84a5763cde6b0573773b89ba86b4321d.jpg",
+    "index_show": "全22话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5998",
+    "media_id": 5998,
+    "order": {
+      "follow": "260.8万人追番",
+      "play": "5944.6万次播放",
+      "pub_date": 1491667200,
+      "pub_real_time": 1491667200,
+      "renewal_time": 1505577600,
+      "score": "8.3分",
+      "type": "follow"
+    },
+    "season_id": 5998,
+    "title": "Re:CREATORS"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/0e2c40ff5e9b6ce3c6a7e381e7801ce840904a0b.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2576",
+    "media_id": 2576,
+    "order": {
+      "follow": "252.1万人追番",
+      "play": "1.4亿次播放",
+      "pub_date": 1436198400,
+      "pub_real_time": 1436198400,
+      "renewal_time": 1443538800,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 2576,
+    "title": "OVERLORD"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/07245c4bf4acb03a5819762fea3210c656aba66c.jpg",
+    "index_show": "全22话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21421",
+    "media_id": 8752,
+    "order": {
+      "follow": "247.4万人追番",
+      "play": "3871.2万次播放",
+      "pub_date": 1515254400,
+      "pub_real_time": 1515254400,
+      "renewal_time": 1528592400,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 21421,
+    "title": "魔卡少女樱 CLEAR CARD篇"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/1cc333ff578e5ea9fded7e454953a4e2291440c2.png",
+    "index_show": "更新至第7话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss25733",
+    "media_id": 134932,
+    "order": {
+      "follow": "229.2万人追番",
+      "play": "2617.4万次播放",
+      "pub_date": 1538582400,
+      "pub_real_time": 1538582400,
+      "renewal_time": 1542221400,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 25733,
+    "title": "青春猪头少年不会梦到兔女郎学姐"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/e1f891ad2602265655f3ef181e343e253f017fce.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1586",
+    "media_id": 1586,
+    "order": {
+      "follow": "224万人追番",
+      "play": "9033万次播放",
+      "pub_date": 1412352000,
+      "pub_real_time": 1412352000,
+      "renewal_time": 1419703200,
+      "score": "9.1分",
+      "type": "follow"
+    },
+    "season_id": 1586,
+    "title": "Fate/stay night [Unlimited Blade Works] 第一季"
+  },
+  {
+    "badge": "付费抢先",
+    "badge_type": 2,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/140bacf044bb0c0841bd1f0e4fc682d037f73f88.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21464",
+    "media_id": 8772,
+    "order": {
+      "follow": "218.5万人追番",
+      "play": "2970.5万次播放",
+      "pub_date": 1517068800,
+      "pub_real_time": 1517068800,
+      "renewal_time": 1532869200,
+      "score": "8.8分",
+      "type": "follow"
+    },
+    "season_id": 21464,
+    "title": "Fate/EXTRA Last Encore"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/5f4beb5a7b94908790ad18b1e0f54c92fc646c12.jpg",
+    "index_show": "全11话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss835",
+    "media_id": 835,
+    "order": {
+      "follow": "218.2万人追番",
+      "play": "2167万次播放",
+      "pub_date": 1302710400,
+      "pub_real_time": 1302710400,
+      "renewal_time": 1406892014,
+      "score": "9.3分",
+      "type": "follow"
+    },
+    "season_id": 835,
+    "title": "我们仍未知道那天所看见的花的名字。"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/146b2d991c87c333553d2b7b6e15f009f9359517.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6434",
+    "media_id": 6434,
+    "order": {
+      "follow": "217.9万人追番",
+      "play": "3851.4万次播放",
+      "pub_date": 1507305600,
+      "pub_real_time": 1507305600,
+      "renewal_time": 1514037600,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 6434,
+    "title": "宝石之国"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/6b6b2423ceff5fbdfbbee3a09a85173b8bd59a03.jpg",
+    "index_show": "全22话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1699",
+    "media_id": 1699,
+    "order": {
+      "follow": "216.9万人追番",
+      "play": "6559.3万次播放",
+      "pub_date": 1412784000,
+      "pub_real_time": 1412784000,
+      "renewal_time": 1426787122,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 1699,
+    "title": "四月是你的谎言"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/c897c607f6d2e40a18cb9656aed48ea26c252721.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6311",
+    "media_id": 6311,
+    "order": {
+      "follow": "216.7万人追番",
+      "play": "5393.7万次播放",
+      "pub_date": 1499097600,
+      "pub_real_time": 1499097600,
+      "renewal_time": 1505830500,
+      "score": "9.0分",
+      "type": "follow"
+    },
+    "season_id": 6311,
+    "title": "笨女孩"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/a92892921f3209f7784a954c37467c9869a1d4c1.png",
+    "index_show": "更新至第7话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss25617",
+    "media_id": 134912,
+    "order": {
+      "follow": "208万人追番",
+      "play": "1686.9万次播放",
+      "pub_date": 1538668800,
+      "pub_real_time": 1538668800,
+      "renewal_time": 1542378600,
+      "score": "8.1分",
+      "type": "follow"
+    },
+    "season_id": 25617,
+    "title": "魔法禁书目录 第三季"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/1ba189ac8338939b7e07f3bae072a32efe6d8c1a.jpg",
+    "index_show": "全24话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss425",
+    "media_id": 425,
+    "order": {
+      "follow": "206.6万人追番",
+      "play": "3239.8万次播放",
+      "pub_date": 1254412800,
+      "pub_real_time": 1254412800,
+      "renewal_time": 1456284928,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 425,
+    "title": "某科学的超电磁炮"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/152c536f8ecaad8f3d7d568d33da81c963a4a722.png",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss23850",
+    "media_id": 78352,
+    "order": {
+      "follow": "206.4万人追番",
+      "play": "5026.7万次播放",
+      "pub_date": 1522944000,
+      "pub_real_time": 1522944000,
+      "renewal_time": 1532966400,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 23850,
+    "title": "超能力女儿"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/1a7403f11fc24c06ae8ed8323aecab8b8b26d2cd.png",
+    "index_show": "全10话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24567",
+    "media_id": 102512,
+    "order": {
+      "follow": "202.7万人追番",
+      "play": "4355.2万次播放",
+      "pub_date": 1530633600,
+      "pub_real_time": 1530633600,
+      "renewal_time": 1536078602,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 24567,
+    "title": "后街女孩"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/2673ac643b48eb5bda64c960a2ca850fbebb839d.jpg",
+    "index_show": "全11话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5550",
+    "media_id": 5550,
+    "order": {
+      "follow": "201.9万人追番",
+      "play": "3528.1万次播放",
+      "pub_date": 1475596800,
+      "pub_real_time": 1475596800,
+      "renewal_time": 1482262210,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 5550,
+    "title": "夏目友人帐 伍"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/b0207dd5dd7a1ce700b9e8f4dbbcfe03c922be6a.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21554",
+    "media_id": 8932,
+    "order": {
+      "follow": "201万人追番",
+      "play": "4226.2万次播放",
+      "pub_date": 1515340800,
+      "pub_real_time": 1515340800,
+      "renewal_time": 1522074599,
+      "score": "9.0分",
+      "type": "follow"
+    },
+    "season_id": 21554,
+    "title": "龙王的工作！"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/1ae7312cddb0cd5cf3eb985904f0a9cb85f897aa.png",
+    "index_show": "全25话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss23858",
+    "media_id": 78552,
+    "order": {
+      "follow": "195万人追番",
+      "play": "8753.2万次播放",
+      "pub_date": 1523030400,
+      "pub_real_time": 1523030400,
+      "renewal_time": 1538214300,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 23858,
+    "title": "我的英雄学院 第三季"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/cb536ffb951d5730075012375785d649ce8bccc8.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1512",
+    "media_id": 1512,
+    "order": {
+      "follow": "189.9万人追番",
+      "play": "5870万次播放",
+      "pub_date": 1420646400,
+      "pub_real_time": 1420646400,
+      "renewal_time": 1427392200,
+      "score": "9.3分",
+      "type": "follow"
+    },
+    "season_id": 1512,
+    "title": "路人女主的养成方法"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/f7175cd20de509e2bfd43255c28cf4e24841480d.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss184",
+    "media_id": 184,
+    "order": {
+      "follow": "189.5万人追番",
+      "play": "2045.7万次播放",
+      "pub_date": 1396972800,
+      "pub_real_time": 1396972800,
+      "renewal_time": 1491667288,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 184,
+    "title": "NO GAME NO LIFE 游戏人生"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/f24f032372642f35257f66478ccfa51800b504a8.jpg",
+    "index_show": "更新至第11话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss22504",
+    "media_id": 33512,
+    "order": {
+      "follow": "188.6万人追番",
+      "play": "2930.5万次播放",
+      "pub_date": 1514736000,
+      "pub_real_time": 1514736000,
+      "renewal_time": 1541079000,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 22504,
+    "title": "卫宫家今天的饭"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/074056b8543ed2ceb53dc13a79da1eafa3fa921a.jpg",
+    "index_show": "全22话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3398",
+    "media_id": 3398,
+    "order": {
+      "follow": "185.9万人追番",
+      "play": "2327.8万次播放",
+      "pub_date": 1335024000,
+      "pub_real_time": 1335024000,
+      "renewal_time": 1457417913,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 3398,
+    "title": "冰菓"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/6603936f61460f284c153b5fbdf2a8f6b2acb34c.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3494",
+    "media_id": 3494,
+    "order": {
+      "follow": "181.4万人追番",
+      "play": "4935.5万次播放",
+      "pub_date": 1460044800,
+      "pub_real_time": 1460044800,
+      "renewal_time": 1467309602,
+      "score": "7.9分",
+      "type": "follow"
+    },
+    "season_id": 3494,
+    "title": "甲铁城的卡巴内瑞"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/745b04054e591da4f4172923a7d51de3dddb4288.jpg",
+    "index_show": "全11话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss23856",
+    "media_id": 78512,
+    "order": {
+      "follow": "176.5万人追番",
+      "play": "3377.7万次播放",
+      "pub_date": 1523548800,
+      "pub_real_time": 1523548800,
+      "renewal_time": 1533225600,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 23856,
+    "title": "宅男腐女恋爱真难"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/7ec9487f007c278733212908a6f607e4a245b1d4.jpg",
+    "index_show": "全22话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1588",
+    "media_id": 1588,
+    "order": {
+      "follow": "176.1万人追番",
+      "play": "2656.4万次播放",
+      "pub_date": 1318435200,
+      "pub_real_time": 1318435200,
+      "renewal_time": 1422208245,
+      "score": "8.5分",
+      "type": "follow"
+    },
+    "season_id": 1588,
+    "title": "罪恶王冠"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/6b4ba7bd59be1f9de225294d18ca5e6819185c06.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5017",
+    "media_id": 5017,
+    "order": {
+      "follow": "174.1万人追番",
+      "play": "5597.9万次播放",
+      "pub_date": 1467388800,
+      "pub_real_time": 1467388800,
+      "renewal_time": 1474725610,
+      "score": "9.2分",
+      "type": "follow"
+    },
+    "season_id": 5017,
+    "title": "食戟之灵 贰之皿"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/264a2252fc7ab3503d5e7b879b0ba64cf7f80831.jpg",
+    "index_show": "更新至第82话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss5978",
+    "media_id": 5978,
+    "order": {
+      "follow": "172.8万人追番",
+      "play": "1亿次播放",
+      "pub_date": 1491321600,
+      "pub_real_time": 1491321600,
+      "renewal_time": 1542533400,
+      "score": "6.2分",
+      "type": "follow"
+    },
+    "season_id": 5978,
+    "title": "博人传 火影忍者新时代"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/36b93d65479f702b82f4f1fb9ace752b8b25f420.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3495",
+    "media_id": 3495,
+    "order": {
+      "follow": "167.7万人追番",
+      "play": "4624.3万次播放",
+      "pub_date": 1460044800,
+      "pub_real_time": 1460044800,
+      "renewal_time": 1466701200,
+      "score": "8.6分",
+      "type": "follow"
+    },
+    "season_id": 3495,
+    "title": "线上游戏的老婆不可能是女生？"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/46a9b18f6f7b08e30a781cf1b44594f1fb2c9e64.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1650",
+    "media_id": 1650,
+    "order": {
+      "follow": "167.3万人追番",
+      "play": "3768.2万次播放",
+      "pub_date": 1317398400,
+      "pub_real_time": 1317398400,
+      "renewal_time": 1412915780,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 1650,
+    "title": "Fate/Zero 第一季"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/85ecf86a69c6f337ec7762922471eaf63020b26f.jpg",
+    "index_show": "全24话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss963",
+    "media_id": 963,
+    "order": {
+      "follow": "167.1万人追番",
+      "play": "2717.8万次播放",
+      "pub_date": 1223049600,
+      "pub_real_time": 1223049600,
+      "renewal_time": 1454558563,
+      "score": "8.9分",
+      "type": "follow"
+    },
+    "season_id": 963,
+    "title": "魔法禁书目录 第一季"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/aec7ee132ed53855118b1bc5de3f95f0d1f21875.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6001",
+    "media_id": 6001,
+    "order": {
+      "follow": "165万人追番",
+      "play": "3010.9万次播放",
+      "pub_date": 1491753600,
+      "pub_real_time": 1491753600,
+      "renewal_time": 1498491000,
+      "score": "8.3分",
+      "type": "follow"
+    },
+    "season_id": 6001,
+    "title": "从零开始的魔法书"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/b75c55d209d156c8631f5ceb21e5c52c834dbb60.jpg",
+    "index_show": "全1话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5747",
+    "media_id": 5747,
+    "order": {
+      "follow": "164.6万人追番",
+      "play": "1518.8万次播放",
+      "pub_date": 1483113600,
+      "pub_real_time": 1483113600,
+      "renewal_time": 1483196409,
+      "score": "7.7分",
+      "type": "follow"
+    },
+    "season_id": 5747,
+    "title": "Fate/Grand Order ‐First Order‐"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/5ce66f68d54052e3a305524b9b06a76977e974fc.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5989",
+    "media_id": 5989,
+    "order": {
+      "follow": "162.5万人追番",
+      "play": "2644.8万次播放",
+      "pub_date": 1491408000,
+      "pub_real_time": 1491408000,
+      "renewal_time": 1498759260,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 5989,
+    "title": "月色真美"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/7b9a5a6e6c5ca157a4c18b01093a7bb1701f4606.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5793",
+    "media_id": 5793,
+    "order": {
+      "follow": "160.6万人追番",
+      "play": "3602.2万次播放",
+      "pub_date": 1483891200,
+      "pub_real_time": 1483891200,
+      "renewal_time": 1490626802,
+      "score": "9.3分",
+      "type": "follow"
+    },
+    "season_id": 5793,
+    "title": "珈百璃的堕落"
+  },
+  {
+    "badge": "付费抢先",
+    "badge_type": 2,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/bca4864e564d46bebb6dc0b14371a04fd70b3fda.jpg",
+    "index_show": "全24话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21729",
+    "media_id": 11932,
+    "order": {
+      "follow": "159.7万人追番",
+      "play": "5494.7万次播放",
+      "pub_date": 1515168000,
+      "pub_real_time": 1515168000,
+      "renewal_time": 1530309600,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 21729,
+    "title": "戒律的复活"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/d3ce7564ddf58b2f7245b104fb578a5655e55168.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1660",
+    "media_id": 1660,
+    "order": {
+      "follow": "158.9万人追番",
+      "play": "1877.4万次播放",
+      "pub_date": 1215360000,
+      "pub_real_time": 1215360000,
+      "renewal_time": 1421909394,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 1660,
+    "title": "夏目友人帐"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/5e32e992cbb666d42b931a1ab8e3752f9d490b93.jpg",
+    "index_show": "全24话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21469",
+    "media_id": 8812,
+    "order": {
+      "follow": "157.9万人追番",
+      "play": "3887.5万次播放",
+      "pub_date": 1516118400,
+      "pub_real_time": 1516118400,
+      "renewal_time": 1530034500,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 21469,
+    "title": "齐木楠雄的灾难 第二季"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/1431ca5bb2f7143062e3df8f21b8448cf8cccc13.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6463",
+    "media_id": 6463,
+    "order": {
+      "follow": "157万人追番",
+      "play": "2048.7万次播放",
+      "pub_date": 1507219200,
+      "pub_real_time": 1507219200,
+      "renewal_time": 1513951200,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 6463,
+    "title": "少女终末旅行"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/9c3e77244687a81e4b75e88ec22eeb8dbaa26380.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2572",
+    "media_id": 2572,
+    "order": {
+      "follow": "155万人追番",
+      "play": "4699万次播放",
+      "pub_date": 1435939200,
+      "pub_real_time": 1435939200,
+      "renewal_time": 1443285000,
+      "score": "9.0分",
+      "type": "follow"
+    },
+    "season_id": 2572,
+    "title": "Charlotte"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/92824bc6a8c7aabbf494c0b276d4aa7b70842976.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3365",
+    "media_id": 3365,
+    "order": {
+      "follow": "153.9万人追番",
+      "play": "1394.6万次播放",
+      "pub_date": 1380643200,
+      "pub_real_time": 1380643200,
+      "renewal_time": 1456369099,
+      "score": "9.2分",
+      "type": "follow"
+    },
+    "season_id": 3365,
+    "title": "境界的彼方"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/4d06e660b8da9cb5335552f4ebde89bbcb2e9d4f.jpg",
+    "index_show": "全50话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3462",
+    "media_id": 3462,
+    "order": {
+      "follow": "153.2万人追番",
+      "play": "7606.3万次播放",
+      "pub_date": 1459872000,
+      "pub_real_time": 1459872000,
+      "renewal_time": 1490783102,
+      "score": "7.7分",
+      "type": "follow"
+    },
+    "season_id": 3462,
+    "title": "双星之阴阳师"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/7bf8baf33c1ecd4a7fea91e81d0143aabe1e1b7c.jpg",
+    "index_show": "全24话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss687",
+    "media_id": 687,
+    "order": {
+      "follow": "153.1万人追番",
+      "play": "171.9万次播放",
+      "pub_date": 1349625600,
+      "pub_real_time": 1349625600,
+      "renewal_time": 1536460140,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 687,
+    "title": "樱花庄的宠物女孩"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/6c75efdf0aa04931d5f9fd9eab3836d6f35ecfc6.jpg",
+    "index_show": "全25话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3271",
+    "media_id": 3271,
+    "order": {
+      "follow": "150.8万人追番",
+      "play": "6286.8万次播放",
+      "pub_date": 1452096000,
+      "pub_real_time": 1452096000,
+      "renewal_time": 1467319802,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 3271,
+    "title": "三年E班 第二季"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/39716626d611a765c44ca27054f3526210c4d5cb.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5977",
+    "media_id": 5977,
+    "order": {
+      "follow": "148.7万人追番",
+      "play": "2488.2万次播放",
+      "pub_date": 1491926400,
+      "pub_real_time": 1491926400,
+      "renewal_time": 1529572920,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 5977,
+    "title": "夏目友人帐 陆"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/a48979a3e3196fc33df796132072c0bd171f4918.jpg",
+    "index_show": "全24话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1559",
+    "media_id": 1559,
+    "order": {
+      "follow": "147.6万人追番",
+      "play": "1亿次播放",
+      "pub_date": 1427990400,
+      "pub_real_time": 1427990400,
+      "renewal_time": 1443215400,
+      "score": "9.3分",
+      "type": "follow"
+    },
+    "season_id": 1559,
+    "title": "食戟之灵"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/3e688cd89f778968bdf6f6d9ca6f3d20b76f04ea.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1552",
+    "media_id": 1552,
+    "order": {
+      "follow": "141.3万人追番",
+      "play": "2932.9万次播放",
+      "pub_date": 1428076800,
+      "pub_real_time": 1428076800,
+      "renewal_time": 1435445356,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 1552,
+    "title": "可塑性记忆"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/0406cd1398ad8ae0e9623bed5544d6002d8d30be.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1539",
+    "media_id": 1539,
+    "order": {
+      "follow": "141万人追番",
+      "play": "1701.8万次播放",
+      "pub_date": 1365004800,
+      "pub_real_time": 1365004800,
+      "renewal_time": 1429769614,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 1539,
+    "title": "我的青春恋爱物语果然有问题。"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/50667c394c8307fa7b49d3f362adebd5154b2997.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6310",
+    "media_id": 6310,
+    "order": {
+      "follow": "140.2万人追番",
+      "play": "2614.6万次播放",
+      "pub_date": 1499097600,
+      "pub_real_time": 1499097600,
+      "renewal_time": 1505756100,
+      "score": "9.1分",
+      "type": "follow"
+    },
+    "season_id": 6310,
+    "title": "异世界食堂"
+  },
+  {
+    "badge": "付费抢先",
+    "badge_type": 2,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/36100858da96759a2203724eccdf2d4d52f6c115.png",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21557",
+    "media_id": 8992,
+    "order": {
+      "follow": "137.9万人追番",
+      "play": "2052.3万次播放",
+      "pub_date": 1515168000,
+      "pub_real_time": 1515168000,
+      "renewal_time": 1521734400,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 21557,
+    "title": "citrus～柑橘味香气～"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/272e35317d38c9cbfb78fe238e83d8462acb2956.png",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24627",
+    "media_id": 102752,
+    "order": {
+      "follow": "136.8万人追番",
+      "play": "2370.1万次播放",
+      "pub_date": 1530720000,
+      "pub_real_time": 1530720000,
+      "renewal_time": 1537452000,
+      "score": "7.0分",
+      "type": "follow"
+    },
+    "season_id": 24627,
+    "title": "异界少女召唤术"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/d6839cb4420c073521ce609e11426b2c208c18e5.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5394",
+    "media_id": 7452,
+    "order": {
+      "follow": "136万人追番",
+      "play": "2474.1万次播放",
+      "pub_date": 1459612800,
+      "pub_real_time": 1459612800,
+      "renewal_time": 1507803300,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 5394,
+    "title": "我的英雄学院 第一季"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/88775e3bd8fa1dc147b5e1686c604162cf06ae8b.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2732",
+    "media_id": 2732,
+    "order": {
+      "follow": "135.6万人追番",
+      "play": "6412.1万次播放",
+      "pub_date": 1443715200,
+      "pub_real_time": 1443715200,
+      "renewal_time": 1451063160,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 2732,
+    "title": "野良神 ARAGOTO"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/64f2a5e01f9cca99cef8e6e4415b9bb867281d0c.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21720",
+    "media_id": 11732,
+    "order": {
+      "follow": "133.4万人追番",
+      "play": "2142.5万次播放",
+      "pub_date": 1515686400,
+      "pub_real_time": 1515686400,
+      "renewal_time": 1522393200,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 21720,
+    "title": "小木乃伊到我家"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/8aa87787edd29b84c4091e8e483ae48422b7bbd0.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5996",
+    "media_id": 5996,
+    "order": {
+      "follow": "133.3万人追番",
+      "play": "2948.1万次播放",
+      "pub_date": 1491494400,
+      "pub_real_time": 1491494400,
+      "renewal_time": 1498156500,
+      "score": "7.7分",
+      "type": "follow"
+    },
+    "season_id": 5996,
+    "title": "恋爱暴君"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/0b06b207c8f1dbbccdc475ed387ef8873deb21ac.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6304",
+    "media_id": 6304,
+    "order": {
+      "follow": "132.8万人追番",
+      "play": "3729万次播放",
+      "pub_date": 1498924800,
+      "pub_real_time": 1498924800,
+      "renewal_time": 1506263400,
+      "score": "8.1分",
+      "type": "follow"
+    },
+    "season_id": 6304,
+    "title": "骑士&魔法"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/35d8ddfa7536215775539a16e5f438756566a7ea.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21719",
+    "media_id": 11712,
+    "order": {
+      "follow": "132.7万人追番",
+      "play": "2909.7万次播放",
+      "pub_date": 1515254400,
+      "pub_real_time": 1515254400,
+      "renewal_time": 1521912600,
+      "score": "8.4分",
+      "type": "follow"
+    },
+    "season_id": 21719,
+    "title": "pop子和pipi美的日常"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/16e8f574911bc1c2fc7b4fe2e2b8fa4fe04e1c13.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss53",
+    "media_id": 53,
+    "order": {
+      "follow": "132.7万人追番",
+      "play": "219.6万次播放",
+      "pub_date": 1404576000,
+      "pub_real_time": 1404576000,
+      "renewal_time": 1411318800,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 53,
+    "title": "月刊少女野崎君"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/f1146494f45cc2c4a3fa0d081c5ecf4bc3147442.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2731",
+    "media_id": 2731,
+    "order": {
+      "follow": "131.8万人追番",
+      "play": "1545.4万次播放",
+      "pub_date": 1388851200,
+      "pub_real_time": 1388851200,
+      "renewal_time": 1463638237,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 2731,
+    "title": "野良神"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/b1a70dca34c06545c36d7e5f29155c8c8817e36e.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1587",
+    "media_id": 1587,
+    "order": {
+      "follow": "131.3万人追番",
+      "play": "7284.2万次播放",
+      "pub_date": 1428076800,
+      "pub_real_time": 1428076800,
+      "renewal_time": 1435422600,
+      "score": "9.2分",
+      "type": "follow"
+    },
+    "season_id": 1587,
+    "title": "Fate/stay night [Unlimited Blade Works] 第二季"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/a57b2da42518f7f496a75fd4cccae781c5346df7.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss4340",
+    "media_id": 4340,
+    "order": {
+      "follow": "127.5万人追番",
+      "play": "1597.5万次播放",
+      "pub_date": 1349193600,
+      "pub_real_time": 1349193600,
+      "renewal_time": 1468825940,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 4340,
+    "title": "中二病也要谈恋爱！"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/144910805f172d16c5f544f43939a05d8ca20576.jpg",
+    "index_show": "全25话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1672",
+    "media_id": 1672,
+    "order": {
+      "follow": "126.4万人追番",
+      "play": "1448.6万次播放",
+      "pub_date": 1222876800,
+      "pub_real_time": 1222876800,
+      "renewal_time": 1330741804,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 1672,
+    "title": "龙与虎"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/0f35105c1be50768df00a1bae1ce6cb8d5b4b8cf.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2680",
+    "media_id": 2680,
+    "order": {
+      "follow": "123万人追番",
+      "play": "1928.3万次播放",
+      "pub_date": 1326038400,
+      "pub_real_time": 1326038400,
+      "renewal_time": 1432720758,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 2680,
+    "title": "男子高中生的日常"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/d13adc58696ed52fa73ab15cb0f3e699bbcc05fb.png",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss23880",
+    "media_id": 79472,
+    "order": {
+      "follow": "122.5万人追番",
+      "play": "2938.4万次播放",
+      "pub_date": 1522944000,
+      "pub_real_time": 1522944000,
+      "renewal_time": 1530208920,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 23880,
+    "title": "Megalo Box"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/bb264d8a63e2d152ba795a1c15314cdf49d7fb49.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6439",
+    "media_id": 6439,
+    "order": {
+      "follow": "121.7万人追番",
+      "play": "2048.4万次播放",
+      "pub_date": 1507392000,
+      "pub_real_time": 1507392000,
+      "renewal_time": 1514056080,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 6439,
+    "title": "幻界战线 & BEYOND"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/8fb5d161ebb467f33d981aa65edc3b8217a3503c.jpg",
+    "index_show": "全16话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2660",
+    "media_id": 2660,
+    "order": {
+      "follow": "120.9万人追番",
+      "play": "1796.1万次播放",
+      "pub_date": 1286035200,
+      "pub_real_time": 1286035200,
+      "renewal_time": 1406891882,
+      "score": "9.2分",
+      "type": "follow"
+    },
+    "season_id": 2660,
+    "title": "我的妹妹不可能那么可爱 第一季"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/eb4f17335f48951945fb9da47e6ee0bc65fa2fbb.jpg",
+    "index_show": "全120话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5070",
+    "media_id": 5070,
+    "order": {
+      "follow": "120.2万人追番",
+      "play": "1.7亿次播放",
+      "pub_date": 1467561600,
+      "pub_real_time": 1467561600,
+      "renewal_time": 1482687301,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 5070,
+    "title": "齐木楠雄的灾难（日播&精选版）"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/d78273dad3f9e6cc2cc7f42cb2c9847821126237.jpg",
+    "index_show": "全1话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2688",
+    "media_id": 2688,
+    "order": {
+      "follow": "120.1万人追番",
+      "play": "785.2万次播放",
+      "pub_date": 1172851200,
+      "pub_real_time": 1172851200,
+      "renewal_time": 1461295820,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 2688,
+    "title": "秒速五厘米"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/c53c6d891115ae783e57bc4cb0c8a456f8788fef.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2722",
+    "media_id": 2722,
+    "order": {
+      "follow": "120万人追番",
+      "play": "5370.1万次播放",
+      "pub_date": 1443801600,
+      "pub_real_time": 1443801600,
+      "renewal_time": 1450530055,
+      "score": "7.8分",
+      "type": "follow"
+    },
+    "season_id": 2722,
+    "title": "学战都市Asterisk"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/7c9002f893f1a9debde1c38b860d64ef31c20d03.png",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24581",
+    "media_id": 102312,
+    "order": {
+      "follow": "118.6万人追番",
+      "play": "2432.8万次播放",
+      "pub_date": 1531497600,
+      "pub_real_time": 1531497600,
+      "renewal_time": 1538155500,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 24581,
+    "title": "碧蓝之海"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/4e7a26393e211dffdebf5a668c0faf71b533b13d.jpg",
+    "index_show": "全23话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1177",
+    "media_id": 1177,
+    "order": {
+      "follow": "118.4万人追番",
+      "play": "123.8万次播放",
+      "pub_date": 1191427200,
+      "pub_real_time": 1191427200,
+      "renewal_time": 1307762640,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 1177,
+    "title": "CLANNAD"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/e2b46584e29f2349748b48c5fb26ce02fcbca4e8.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5058",
+    "media_id": 5058,
+    "order": {
+      "follow": "117.6万人追番",
+      "play": "3236.1万次播放",
+      "pub_date": 1468252800,
+      "pub_real_time": 1468252800,
+      "renewal_time": 1474907400,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 5058,
+    "title": "路人超能100(灵能百分百)"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/c2c5e414d49526b00c551930c41def366c5f9136.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6447",
+    "media_id": 6447,
+    "order": {
+      "follow": "116.7万人追番",
+      "play": "2384万次播放",
+      "pub_date": 1507392000,
+      "pub_real_time": 1507392000,
+      "renewal_time": 1514655000,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 6447,
+    "title": "鬼灯的冷彻 第二季"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/7449bdd3c8067fec587a0cf2a8f7f1f5275b757f.jpg",
+    "index_show": "全24话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5069",
+    "media_id": 5069,
+    "order": {
+      "follow": "116.6万人追番",
+      "play": "6229.4万次播放",
+      "pub_date": 1468166400,
+      "pub_real_time": 1468166400,
+      "renewal_time": 1482687300,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 5069,
+    "title": "齐木楠雄的灾难"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/f0043f638a4ce8307e0a299349d6d6beb4e7b97b.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6432",
+    "media_id": 6432,
+    "order": {
+      "follow": "116.2万人追番",
+      "play": "1953万次播放",
+      "pub_date": 1507392000,
+      "pub_real_time": 1507392000,
+      "renewal_time": 1514048400,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 6432,
+    "title": "调教咖啡厅"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/77605418c0921578c469201d6384d6a32ed218e9.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6341",
+    "media_id": 6341,
+    "order": {
+      "follow": "116万人追番",
+      "play": "1401.4万次播放",
+      "pub_date": 1500048000,
+      "pub_real_time": 1500048000,
+      "renewal_time": 1506702600,
+      "score": "9.1分",
+      "type": "follow"
+    },
+    "season_id": 6341,
+    "title": "地狱少女 宵伽"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/13ee9ca9ee720538a603ca29e471bb2a67f7a05e.jpg",
+    "index_show": "全26话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss844",
+    "media_id": 844,
+    "order": {
+      "follow": "115.9万人追番",
+      "play": "3828.4万次播放",
+      "pub_date": 1301673600,
+      "pub_real_time": 1301673600,
+      "renewal_time": 1316938811,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 844,
+    "title": "日常"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/985117c4c5cce9fb0208e790554ad777c6956689.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6425",
+    "media_id": 6425,
+    "order": {
+      "follow": "115.7万人追番",
+      "play": "1289.9万次播放",
+      "pub_date": 1507132800,
+      "pub_real_time": 1507132800,
+      "renewal_time": 1513785600,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 6425,
+    "title": "此花亭奇谭"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/79aeb20ed7ea1d6fc2744c5815dc7d6ded370b50.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6420",
+    "media_id": 6420,
+    "order": {
+      "follow": "114.4万人追番",
+      "play": "2734.9万次播放",
+      "pub_date": 1506960000,
+      "pub_real_time": 1506960000,
+      "renewal_time": 1513695600,
+      "score": "7.7分",
+      "type": "follow"
+    },
+    "season_id": 6420,
+    "title": "十二大战"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/22a01c03926869ab31e7b158ffe15e783930da71.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2743",
+    "media_id": 2743,
+    "order": {
+      "follow": "112.5万人追番",
+      "play": "4051.2万次播放",
+      "pub_date": 1443801600,
+      "pub_real_time": 1443801600,
+      "renewal_time": 1450537260,
+      "score": "9.2分",
+      "type": "follow"
+    },
+    "season_id": 2743,
+    "title": "落第骑士英雄谭"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/902812752c6c021b7e8f75f30ea2d63db8d71d7e.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2725",
+    "media_id": 2725,
+    "order": {
+      "follow": "112.3万人追番",
+      "play": "5123.7万次播放",
+      "pub_date": 1443715200,
+      "pub_real_time": 1443715200,
+      "renewal_time": 1451068260,
+      "score": "8.9分",
+      "type": "follow"
+    },
+    "season_id": 2725,
+    "title": "K RETURN OF KINGS"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/ecb246e926c344840755701ffd36ee82cee7bd55.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21769",
+    "media_id": 12872,
+    "order": {
+      "follow": "111.2万人追番",
+      "play": "1669.6万次播放",
+      "pub_date": 1515686400,
+      "pub_real_time": 1515686400,
+      "renewal_time": 1522422000,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 21769,
+    "title": "博多豚骨拉面团"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/803ee7dc0e151ea3f634fe49e73d3b3fb93ca433.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss959",
+    "media_id": 959,
+    "order": {
+      "follow": "110.4万人追番",
+      "play": "206.4万次播放",
+      "pub_date": 1270137600,
+      "pub_real_time": 1270137600,
+      "renewal_time": 1295541660,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 959,
+    "title": "Angel Beats!"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/60bcf90d945ae88d5a1b50e069672aea0869167f.png",
+    "index_show": "更新至第7话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss25613",
+    "media_id": 139312,
+    "order": {
+      "follow": "110.2万人追番",
+      "play": "1018.5万次播放",
+      "pub_date": 1538668800,
+      "pub_real_time": 1538668800,
+      "renewal_time": 1542382200,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 25613,
+    "title": "我家女仆有够烦！"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/77a8be24ae45d1c52b2c1a65851e6e20e63a7167.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5020",
+    "media_id": 5020,
+    "order": {
+      "follow": "109.3万人追番",
+      "play": "2581万次播放",
+      "pub_date": 1467475200,
+      "pub_real_time": 1467475200,
+      "renewal_time": 1474732810,
+      "score": "8.1分",
+      "type": "follow"
+    },
+    "season_id": 5020,
+    "title": "Rewrite"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/2d8e0db5b60d2f2fa8dea5a1b3bcc5023bde69a2.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss685",
+    "media_id": 685,
+    "order": {
+      "follow": "108.9万人追番",
+      "play": "979.7万次播放",
+      "pub_date": 1349280000,
+      "pub_real_time": 1349280000,
+      "renewal_time": 1452073335,
+      "score": "9.2分",
+      "type": "follow"
+    },
+    "season_id": 685,
+    "title": "K"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/6e6a7524c42efb8061985f9fe1a0448e6913c3e2.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5022",
+    "media_id": 5022,
+    "order": {
+      "follow": "108.4万人追番",
+      "play": "2337.7万次播放",
+      "pub_date": 1467475200,
+      "pub_real_time": 1467475200,
+      "renewal_time": 1474813810,
+      "score": "7.7分",
+      "type": "follow"
+    },
+    "season_id": 5022,
+    "title": "热诚传说X"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/6c6f6b21d51753a2041ba4acf5cef1d5a6b2e4b2.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3440",
+    "media_id": 3440,
+    "order": {
+      "follow": "107.2万人追番",
+      "play": "1316.4万次播放",
+      "pub_date": 1389283200,
+      "pub_real_time": 1389283200,
+      "renewal_time": 1458097873,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 3440,
+    "title": "鬼灯的冷彻"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/6194f3436d4447a0d6aef90c87013db8daf57605.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6427",
+    "media_id": 6427,
+    "order": {
+      "follow": "106.3万人追番",
+      "play": "1402.2万次播放",
+      "pub_date": 1507219200,
+      "pub_real_time": 1507219200,
+      "renewal_time": 1514476800,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 6427,
+    "title": "Just Because!"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/2bdc085a0b514276539fafda97e4043f5ea641bb.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1553",
+    "media_id": 1553,
+    "order": {
+      "follow": "105.7万人追番",
+      "play": "3152.2万次播放",
+      "pub_date": 1428076800,
+      "pub_real_time": 1428076800,
+      "renewal_time": 1444039200,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 1553,
+    "title": "幻界战线"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/8f67ccb853ce59adbe233da59ff6cd644a05d453.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5515",
+    "media_id": 5515,
+    "order": {
+      "follow": "104.4万人追番",
+      "play": "1648.7万次播放",
+      "pub_date": 1475424000,
+      "pub_real_time": 1475424000,
+      "renewal_time": 1482076810,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 5515,
+    "title": "刀剑乱舞-花丸-"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/212345f11472cd39d6209652ca926f2249fdff36.jpg",
+    "index_show": "全57话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3287",
+    "media_id": 3287,
+    "order": {
+      "follow": "102.8万人追番",
+      "play": "8809.1万次播放",
+      "pub_date": 1452700800,
+      "pub_real_time": 1452700800,
+      "renewal_time": 1490268602,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 3287,
+    "title": "火影忍者 疾风传"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/2b0d7996d9ef2a3786da05fe3f1b92857fc2e6ad.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24620",
+    "media_id": 102272,
+    "order": {
+      "follow": "102.1万人追番",
+      "play": "1103.3万次播放",
+      "pub_date": 1531324800,
+      "pub_real_time": 1531324800,
+      "renewal_time": 1538062200,
+      "score": "8.9分",
+      "type": "follow"
+    },
+    "season_id": 24620,
+    "title": "天狼 Sirius the Jaeger"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/055fcccf87dd9b2ff6d86adc43711fce5df78e44.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5776",
+    "media_id": 5776,
+    "order": {
+      "follow": "98.7万人追番",
+      "play": "1261.2万次播放",
+      "pub_date": 1483632000,
+      "pub_real_time": 1483632000,
+      "renewal_time": 1490328362,
+      "score": "9.2分",
+      "type": "follow"
+    },
+    "season_id": 5776,
+    "title": "URARA迷路帖"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/f34ff3975c39913af936c133ae60a5891babba08.png",
+    "index_show": "更新至第7话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss25681",
+    "media_id": 135652,
+    "order": {
+      "follow": "98.5万人追番",
+      "play": "1226.4万次播放",
+      "pub_date": 1538755200,
+      "pub_real_time": 1538755200,
+      "renewal_time": 1542389700,
+      "score": "9.9分",
+      "type": "follow"
+    },
+    "season_id": 25681,
+    "title": "JOJO的奇妙冒险 黄金之风"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/b3aa44ce91b371fa2614e5bf617615210e325145.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6423",
+    "media_id": 6423,
+    "order": {
+      "follow": "98.2万人追番",
+      "play": "1954.1万次播放",
+      "pub_date": 1507046400,
+      "pub_real_time": 1507046400,
+      "renewal_time": 1514304300,
+      "score": "9.3分",
+      "type": "follow"
+    },
+    "season_id": 6423,
+    "title": "品酒要在成为夫妻后"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/e4dcc80598a4133af6b1a880bb8006fa5346f31b.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21728",
+    "media_id": 11912,
+    "order": {
+      "follow": "97.8万人追番",
+      "play": "1494.6万次播放",
+      "pub_date": 1514995200,
+      "pub_real_time": 1514995200,
+      "renewal_time": 1521716400,
+      "score": "9.2分",
+      "type": "follow"
+    },
+    "season_id": 21728,
+    "title": "爱吃拉面的小泉同学"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/4c8064cf5d498af081829e3d3ff2f589e3b254e3.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21755",
+    "media_id": 12592,
+    "order": {
+      "follow": "97.3万人追番",
+      "play": "1460.8万次播放",
+      "pub_date": 1515340800,
+      "pub_real_time": 1515340800,
+      "renewal_time": 1521993600,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 21755,
+    "title": "刻刻"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/654466a6f0cf9aa9b73b800da152a460bfabbb89.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2667",
+    "media_id": 2667,
+    "order": {
+      "follow": "95.8万人追番",
+      "play": "1535.6万次播放",
+      "pub_date": 1357315200,
+      "pub_real_time": 1357315200,
+      "renewal_time": 1406892081,
+      "score": "9.0分",
+      "type": "follow"
+    },
+    "season_id": 2667,
+    "title": "我女友与青梅竹马的惨烈修罗场"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/2b1aa93137e60ffc61d2376b9aba49def796149b.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1523",
+    "media_id": 1523,
+    "order": {
+      "follow": "95.8万人追番",
+      "play": "501.1万次播放",
+      "pub_date": 1420387200,
+      "pub_real_time": 1420387200,
+      "renewal_time": 1427740512,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 1523,
+    "title": "元气少女缘结神◎"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/db6e926d8860a995905845a8f592669840942344.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24571",
+    "media_id": 102292,
+    "order": {
+      "follow": "94.9万人追番",
+      "play": "1057.9万次播放",
+      "pub_date": 1530374400,
+      "pub_real_time": 1530374400,
+      "renewal_time": 1537102800,
+      "score": "9.2分",
+      "type": "follow"
+    },
+    "season_id": 24571,
+    "title": "ISLAND "
+  },
+  {
+    "badge": "付费观看",
+    "badge_type": 2,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/bd69c56891f6e9cea0056a01c013b36d9a3e2abb.png",
+    "index_show": "全26话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss23878",
+    "media_id": 79312,
+    "order": {
+      "follow": "94.5万人追番",
+      "play": "1734万次播放",
+      "pub_date": 1523116800,
+      "pub_real_time": 1523116800,
+      "renewal_time": 1538240400,
+      "score": "9.1分",
+      "type": "follow"
+    },
+    "season_id": 23878,
+    "title": "女神异闻录5 动画版"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/133030604f6d68986249fe34ba909c800eb685d5.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3068",
+    "media_id": 3068,
+    "order": {
+      "follow": "93.8万人追番",
+      "play": "1277.9万次播放",
+      "pub_date": 1357401600,
+      "pub_real_time": 1357401600,
+      "renewal_time": 1448776512,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 3068,
+    "title": "Love Live! School Idol Project"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/9d1657d52788eed1c5fa6a6f0d605226928c1137.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6000",
+    "media_id": 6000,
+    "order": {
+      "follow": "92.6万人追番",
+      "play": "1558万次播放",
+      "pub_date": 1491494400,
+      "pub_real_time": 1491494400,
+      "renewal_time": 1498190400,
+      "score": "7.4分",
+      "type": "follow"
+    },
+    "season_id": 6000,
+    "title": "时钟机关之星"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/dd75beeae2b4c2753c03ccf36b51798dfbd577c2.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1555",
+    "media_id": 1555,
+    "order": {
+      "follow": "92.1万人追番",
+      "play": "3065.2万次播放",
+      "pub_date": 1428076800,
+      "pub_real_time": 1428076800,
+      "renewal_time": 1434808800,
+      "score": "8.2分",
+      "type": "follow"
+    },
+    "season_id": 1555,
+    "title": "终结的炽天使"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/99997c5adb361c2c27780ef690b13244dfda7cc7.jpg",
+    "index_show": "全1话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2546",
+    "media_id": 2546,
+    "order": {
+      "follow": "92万人追番",
+      "play": "764万次播放",
+      "pub_date": 1369929600,
+      "pub_real_time": 1369929600,
+      "renewal_time": 1435145961,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 2546,
+    "title": "言叶之庭"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/c4b692ad88d42f18d3c55acf8cf2204dc6b0086c.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6340",
+    "media_id": 6340,
+    "order": {
+      "follow": "91.8万人追番",
+      "play": "1975.9万次播放",
+      "pub_date": 1499875200,
+      "pub_real_time": 1499875200,
+      "renewal_time": 1506607620,
+      "score": "8.9分",
+      "type": "follow"
+    },
+    "season_id": 6340,
+    "title": "GAMERS电玩咖！"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/b3633d2e5cafa0d048f4beef63618c92cfac4c4c.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5534",
+    "media_id": 5534,
+    "order": {
+      "follow": "91.7万人追番",
+      "play": "2109.5万次播放",
+      "pub_date": 1475769600,
+      "pub_real_time": 1475769600,
+      "renewal_time": 1482465609,
+      "score": "8.7分",
+      "type": "follow"
+    },
+    "season_id": 5534,
+    "title": "我太受欢迎了该怎么办"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/446c6c7e1806c0debbc3e40ba2e9d9dd00cb4a08.jpg",
+    "index_show": "全26话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1656",
+    "media_id": 1656,
+    "order": {
+      "follow": "91.7万人追番",
+      "play": "1133.9万次播放",
+      "pub_date": 1262793600,
+      "pub_real_time": 1262793600,
+      "renewal_time": 1419543807,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 1656,
+    "title": "无头骑士异闻录"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/268f225ab92f4359bde36adbc0a76d6cf8bc5d4b.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1540",
+    "media_id": 1540,
+    "order": {
+      "follow": "91.7万人追番",
+      "play": "4304.6万次播放",
+      "pub_date": 1427904000,
+      "pub_real_time": 1427904000,
+      "renewal_time": 1435284000,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 1540,
+    "title": "我的青春恋爱物语果然有问题。 续"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/c0faf1e86c8f7fef70d26996175598314a3f09c7.jpg",
+    "index_show": "全10话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2673",
+    "media_id": 2673,
+    "order": {
+      "follow": "91.5万人追番",
+      "play": "2613万次播放",
+      "pub_date": 1381248000,
+      "pub_real_time": 1381248000,
+      "renewal_time": 1386783100,
+      "score": "9.3分",
+      "type": "follow"
+    },
+    "season_id": 2673,
+    "title": "我的脑内选项正在全力妨碍学园恋爱喜剧"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/6bf7624d5b688b3e916c1ae1e94c2e16cd4714a7.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5056",
+    "media_id": 5056,
+    "order": {
+      "follow": "91.2万人追番",
+      "play": "1750万次播放",
+      "pub_date": 1468166400,
+      "pub_real_time": 1468166400,
+      "renewal_time": 1474903810,
+      "score": "7.3分",
+      "type": "follow"
+    },
+    "season_id": 5056,
+    "title": "弹丸论破3 -未来篇-"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/c5873e464283a8d1b754eaa2ad0295a38f7ecf03.jpg",
+    "index_show": "全24话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss427",
+    "media_id": 427,
+    "order": {
+      "follow": "90.4万人追番",
+      "play": "1888.5万次播放",
+      "pub_date": 1365696000,
+      "pub_real_time": 1365696000,
+      "renewal_time": 1443677080,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 427,
+    "title": "某科学的超电磁炮S"
+  },
+  {
+    "badge": "付费抢先",
+    "badge_type": 2,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/493877cdb06040c52886d6ebef19ac94dcde96b6.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss23859",
+    "media_id": 78572,
+    "order": {
+      "follow": "90.2万人追番",
+      "play": "1180万次播放",
+      "pub_date": 1522857600,
+      "pub_real_time": 1522857600,
+      "renewal_time": 1530192600,
+      "score": "8.9分",
+      "type": "follow"
+    },
+    "season_id": 23859,
+    "title": "多田君不恋爱"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/f62141fc96b146532480be8851efc8c3a94eedec.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5027",
+    "media_id": 5027,
+    "order": {
+      "follow": "89.9万人追番",
+      "play": "1601万次播放",
+      "pub_date": 1467734400,
+      "pub_real_time": 1467734400,
+      "renewal_time": 1474390800,
+      "score": "9.3分",
+      "type": "follow"
+    },
+    "season_id": 5027,
+    "title": "NEW GAME!"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/248e9cc5b73cc3a276acf92eaf6651a7b3c90d10.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5062",
+    "media_id": 5062,
+    "order": {
+      "follow": "88.8万人追番",
+      "play": "1222.3万次播放",
+      "pub_date": 1467388800,
+      "pub_real_time": 1467388800,
+      "renewal_time": 1474725610,
+      "score": "8.7分",
+      "type": "follow"
+    },
+    "season_id": 5062,
+    "title": "Love Live! Sunshine!!"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/9ecb09e7f035e452a1e73095d58d303c63b34a91.jpg",
+    "index_show": "全70话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3756",
+    "media_id": 3756,
+    "order": {
+      "follow": "88.4万人追番",
+      "play": "2089.4万次播放",
+      "pub_date": 891878400,
+      "pub_real_time": 891878400,
+      "renewal_time": 1460779753,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 3756,
+    "title": "魔卡少女樱"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/401f84cadca354453e338c175c25fa971b67d224.jpg",
+    "index_show": "全64话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss1089",
+    "media_id": 1089,
+    "order": {
+      "follow": "88.2万人追番",
+      "play": "1334.4万次播放",
+      "pub_date": 1238860800,
+      "pub_real_time": 1238860800,
+      "renewal_time": 1309539120,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 1089,
+    "title": "钢之炼金术师 FULLMETAL ALCHEMIST"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/4d55f8a62a717c954c5bc92fc26e0d2dc9e0592e.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5043",
+    "media_id": 5043,
+    "order": {
+      "follow": "87.9万人追番",
+      "play": "1848.8万次播放",
+      "pub_date": 1467907200,
+      "pub_real_time": 1467907200,
+      "renewal_time": 1474570810,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 5043,
+    "title": "这个美术社大有问题！"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/948878ec7fc44c3e824d6204b4de91abfb0dce17.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5797",
+    "media_id": 5797,
+    "order": {
+      "follow": "87.6万人追番",
+      "play": "685.9万次播放",
+      "pub_date": 1483977600,
+      "pub_real_time": 1483977600,
+      "renewal_time": 1490720400,
+      "score": "7.0分",
+      "type": "follow"
+    },
+    "season_id": 5797,
+    "title": "Hand Shakers"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/1cb9e69812d7227fdb0bf5bf4eb45662fef8ea60.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24630",
+    "media_id": 102112,
+    "order": {
+      "follow": "87.2万人追番",
+      "play": "1893.3万次播放",
+      "pub_date": 1531065600,
+      "pub_real_time": 1531065600,
+      "renewal_time": 1538406000,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 24630,
+    "title": "邪神与厨二病少女"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/df92247e200aeb61f8aceda2e2b661c7dc07a328.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24583",
+    "media_id": 102592,
+    "order": {
+      "follow": "87.2万人追番",
+      "play": "1528.8万次播放",
+      "pub_date": 1530720000,
+      "pub_real_time": 1530720000,
+      "renewal_time": 1537444800,
+      "score": "8.1分",
+      "type": "follow"
+    },
+    "season_id": 24583,
+    "title": "春原庄的管理人小姐"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/15992a6e1d737ae0319ab3788f598c223501d043.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2932",
+    "media_id": 2932,
+    "order": {
+      "follow": "86.9万人追番",
+      "play": "3497.9万次播放",
+      "pub_date": 1365004800,
+      "pub_real_time": 1365004800,
+      "renewal_time": 1372379115,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 2932,
+    "title": "打工吧！魔王大人"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/c345335f3cc395f7cfbe7e7e0a4913f9b1671fe2.jpg",
+    "index_show": "更新至第58话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss6422",
+    "media_id": 6422,
+    "order": {
+      "follow": "86.6万人追番",
+      "play": "2528.1万次播放",
+      "pub_date": 1506960000,
+      "pub_real_time": 1506960000,
+      "renewal_time": 1542104700,
+      "score": "8.0分",
+      "type": "follow"
+    },
+    "season_id": 6422,
+    "title": "黑色四叶草"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/3f390754aecd279d3915a60676fa6ea735a72010.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss3464",
+    "media_id": 3464,
+    "order": {
+      "follow": "84.2万人追番",
+      "play": "3841.1万次播放",
+      "pub_date": 1459612800,
+      "pub_real_time": 1459612800,
+      "renewal_time": 1466265962,
+      "score": "8.2分",
+      "type": "follow"
+    },
+    "season_id": 3464,
+    "title": "学战都市Asterisk 第二季"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/96704d5ef94722dca15f7fe07d8c004a0c770e25.jpg",
+    "index_show": "全10话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss439",
+    "media_id": 439,
+    "order": {
+      "follow": "83.7万人追番",
+      "play": "2188.1万次播放",
+      "pub_date": 1357833600,
+      "pub_real_time": 1357833600,
+      "renewal_time": 1363393519,
+      "score": "9.0分",
+      "type": "follow"
+    },
+    "season_id": 439,
+    "title": "问题儿童都来自异世界？"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/78ef9dff0fb338e6e037332821aff4b1441b9d96.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6328",
+    "media_id": 6328,
+    "order": {
+      "follow": "83.5万人追番",
+      "play": "1364.8万次播放",
+      "pub_date": 1499616000,
+      "pub_real_time": 1499616000,
+      "renewal_time": 1506340800,
+      "score": "8.4分",
+      "type": "follow"
+    },
+    "season_id": 6328,
+    "title": "天使的3P!"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/e5e7edcb4f17cfd1ba4cd233a12f514862bf1c94.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss191",
+    "media_id": 191,
+    "order": {
+      "follow": "83.3万人追番",
+      "play": "579.5万次播放",
+      "pub_date": 1397059200,
+      "pub_real_time": 1397059200,
+      "renewal_time": 1473919083,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 191,
+    "title": "请问您今天要来点兔子吗？"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/bf5603c57dee60c2ccfdc1c8b907e1b20e24ce1b.jpg",
+    "index_show": "全5话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5045",
+    "media_id": 5045,
+    "order": {
+      "follow": "82.6万人追番",
+      "play": "660.9万次播放",
+      "pub_date": 1467820800,
+      "pub_real_time": 1467820800,
+      "renewal_time": 1470241802,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 5045,
+    "title": "星之梦"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/2615ddc493f755acf9013c865863060957ffb08b.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss842",
+    "media_id": 842,
+    "order": {
+      "follow": "82.3万人追番",
+      "play": "1115.3万次播放",
+      "pub_date": 1262707200,
+      "pub_real_time": 1262707200,
+      "renewal_time": 1458706618,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 842,
+    "title": "笨蛋，测验，召唤兽"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/93800a3560fa26f3f63ea8ac0cd5c4bfa9e3d4ea.png",
+    "index_show": "更新至第6话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss25717",
+    "media_id": 139612,
+    "order": {
+      "follow": "82.1万人追番",
+      "play": "593.7万次播放",
+      "pub_date": 1539100800,
+      "pub_real_time": 1539100800,
+      "renewal_time": 1542205800,
+      "score": "5.5分",
+      "type": "follow"
+    },
+    "season_id": 25717,
+    "title": "我喜欢的是小说里的你"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/2ed6be9050dfa4afe6e2651741d81843a0e81c67.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5548",
+    "media_id": 5548,
+    "order": {
+      "follow": "82万人追番",
+      "play": "2319.8万次播放",
+      "pub_date": 1475596800,
+      "pub_real_time": 1475596800,
+      "renewal_time": 1482867010,
+      "score": "8.6分",
+      "type": "follow"
+    },
+    "season_id": 5548,
+    "title": "黑白来看守所"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/964a79c96c92ef262eed53982f3a57689b6292af.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss779",
+    "media_id": 779,
+    "order": {
+      "follow": "82万人追番",
+      "play": "3768.2万次播放",
+      "pub_date": 1333728000,
+      "pub_real_time": 1333728000,
+      "renewal_time": 1412915780,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 779,
+    "title": "Fate/Zero 第二季"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/0d8711a929a170c133e870a2399da759f7a5897a.jpg",
+    "index_show": "全26话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss969",
+    "media_id": 969,
+    "order": {
+      "follow": "81.9万人追番",
+      "play": "111.8万次播放",
+      "pub_date": 1270137600,
+      "pub_real_time": 1270137600,
+      "renewal_time": 1536229548,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 969,
+    "title": "会长是女仆大人！"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/ac94186b0e560932ea4f475348d410db0c53e28a.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss413",
+    "media_id": 413,
+    "order": {
+      "follow": "81.2万人追番",
+      "play": "1905.9万次播放",
+      "pub_date": 1365782400,
+      "pub_real_time": 1365782400,
+      "renewal_time": 1372550293,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 413,
+    "title": "变态王子与不笑猫"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/f05fe966a3924ad46d6d3416483a8a3eec9a2d5d.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss809",
+    "media_id": 809,
+    "order": {
+      "follow": "81.1万人追番",
+      "play": "659.7万次播放",
+      "pub_date": 1326297600,
+      "pub_real_time": 1326297600,
+      "renewal_time": 1436842095,
+      "score": "9.5分",
+      "type": "follow"
+    },
+    "season_id": 809,
+    "title": "妖狐×仆SS"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/e29fe9d62d02f153db7237f748c5b296e5da4a71.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5798",
+    "media_id": 5798,
+    "order": {
+      "follow": "80.8万人追番",
+      "play": "1361.8万次播放",
+      "pub_date": 1484064000,
+      "pub_real_time": 1484064000,
+      "renewal_time": 1490794802,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 5798,
+    "title": "One Room"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/f32f0f1390015c98aae1839e75fb1860065d8994.jpg",
+    "index_show": "全6话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss6470",
+    "media_id": 6470,
+    "order": {
+      "follow": "80.6万人追番",
+      "play": "571万次播放",
+      "pub_date": 1511539200,
+      "pub_real_time": 1511539200,
+      "renewal_time": 1514565000,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 6470,
+    "title": "无论何时我们的恋情都是10厘米。～告白实行委员会～"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/a36c510217610bf3e8486b3b02c7d3db1a6b288c.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24628",
+    "media_id": 102772,
+    "order": {
+      "follow": "80.5万人追番",
+      "play": "1774.4万次播放",
+      "pub_date": 1530979200,
+      "pub_real_time": 1530979200,
+      "renewal_time": 1537633800,
+      "score": "6.1分",
+      "type": "follow"
+    },
+    "season_id": 24628,
+    "title": "百炼霸王与圣约女武神"
+  },
+  {
+    "badge": "会员专享",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/dbdcbffd272e7927a344f682934f9cae934150db.png",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss24584",
+    "media_id": 102552,
+    "order": {
+      "follow": "80.4万人追番",
+      "play": "1249.9万次播放",
+      "pub_date": 1530806400,
+      "pub_real_time": 1530806400,
+      "renewal_time": 1538891340,
+      "score": "9.6分",
+      "type": "follow"
+    },
+    "season_id": 24584,
+    "title": "千绪的上学路"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/ecb59fd96204259d2fb004a106231a1987eef554.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2539",
+    "media_id": 2539,
+    "order": {
+      "follow": "80.2万人追番",
+      "play": "1016.7万次播放",
+      "pub_date": 1294243200,
+      "pub_real_time": 1294243200,
+      "renewal_time": 1406891722,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 2539,
+    "title": "魔法少女小圆"
+  },
+  {
+    "badge": "会员抢先",
+    "badge_type": 0,
+    "cover": "http://i0.hdslb.com/bfs/bangumi/9254b0bafd699c1a778c42658497948ba3038a77.png",
+    "index_show": "更新至第7话",
+    "is_finish": 0,
+    "link": "https://www.bilibili.com/bangumi/play/ss25622",
+    "media_id": 138832,
+    "order": {
+      "follow": "79.7万人追番",
+      "play": "491.8万次播放",
+      "pub_date": 1538668800,
+      "pub_real_time": 1538668800,
+      "renewal_time": 1542376800,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 25622,
+    "title": "终将成为你"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/b2cf533450a46802519deaece0eb5dca2d75c482.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss2742",
+    "media_id": 2742,
+    "order": {
+      "follow": "79.7万人追番",
+      "play": "1691.9万次播放",
+      "pub_date": 1444147200,
+      "pub_real_time": 1444147200,
+      "renewal_time": 1450890060,
+      "score": "9.2分",
+      "type": "follow"
+    },
+    "season_id": 2742,
+    "title": "樱子小姐的脚下埋着尸体"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/cc86763c875508c3670d8033eaa9b07b150b4988.jpg",
+    "index_show": "全11话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss5806",
+    "media_id": 5806,
+    "order": {
+      "follow": "79.5万人追番",
+      "play": "1092.1万次播放",
+      "pub_date": 1484323200,
+      "pub_real_time": 1484323200,
+      "renewal_time": 1490457602,
+      "score": "8.7分",
+      "type": "follow"
+    },
+    "season_id": 5806,
+    "title": "Rewrite 2nd Season"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/0099eed28f8389f979dc6c66a49a0d83c7e76e42.jpg",
+    "index_show": "全24话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss856",
+    "media_id": 856,
+    "order": {
+      "follow": "79.2万人追番",
+      "play": "652万次播放",
+      "pub_date": 1294329600,
+      "pub_real_time": 1294329600,
+      "renewal_time": 1456381467,
+      "score": "9.7分",
+      "type": "follow"
+    },
+    "season_id": 856,
+    "title": "GOSICK"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/c9eca3cbc386c63b27461074b8b218898cb7440e.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss21778",
+    "media_id": 13032,
+    "order": {
+      "follow": "78.9万人追番",
+      "play": "953.6万次播放",
+      "pub_date": 1514822400,
+      "pub_real_time": 1514822400,
+      "renewal_time": 1522155600,
+      "score": "9.8分",
+      "type": "follow"
+    },
+    "season_id": 21778,
+    "title": "比宇宙更远的地方"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/27388ded46e1c66f9ba457009970ae1a5e99b876.jpg",
+    "index_show": "全12话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss697",
+    "media_id": 697,
+    "order": {
+      "follow": "78.8万人追番",
+      "play": "308.7万次播放",
+      "pub_date": 1294588800,
+      "pub_real_time": 1294588800,
+      "renewal_time": 1301466000,
+      "score": "9.4分",
+      "type": "follow"
+    },
+    "season_id": 697,
+    "title": "这个是僵尸吗？"
+  },
+  {
+    "cover": "http://i0.hdslb.com/bfs/bangumi/b69a9fc2ce1c50915b3158c2f6ac51ed64101b23.jpg",
+    "index_show": "全13话",
+    "is_finish": 1,
+    "link": "https://www.bilibili.com/bangumi/play/ss4349",
+    "media_id": 4349,
+    "order": {
+      "follow": "78.2万人追番",
+      "play": "2967.5万次播放",
+      "pub_date": 1389110400,
+      "pub_real_time": 1389110400,
+      "renewal_time": 1468893960,
+      "score": "9.3分",
+      "type": "follow"
+    },
+    "season_id": 4349,
+    "title": "中二病也要谈恋爱！恋"
+  }
+]
