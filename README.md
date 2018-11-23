@@ -21,4 +21,6 @@ demo0001 及之后正式收录各个接口实际、具体的用法、示例
 * module -- 模块
 * os -- 系统
 * path -- 路径
+* querystring -- 查询字符串
+* readline -- 逐行读取
 * timer -- 定时器
