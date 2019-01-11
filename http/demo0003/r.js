@@ -19,7 +19,7 @@ const doubanArr = [
 
 const doubanFlag = 2;
 
-const fileName = `data/data-${ doubanArr[doubanFlag].name }-${ +new Date() }.json`;
+const fileName = `data190109/data-${ doubanArr[doubanFlag].name }-${ +new Date() }.json`;
 
 // const url = 'https://cnodejs.org/api/v1/topics?page=1&tab=share&limit=2';
 // const url = 'https://www.douban.com/group/topic/114702883/';
@@ -77,6 +77,7 @@ let saveFile = objs => {
     if (err) throw err;
     console.log(fileName, 'has been saved!');
   });
+  // console.log(objs);
 };
 
 let page = 0;
@@ -90,7 +91,7 @@ let wrap = async function(page) {
     if (page < count) {
       setTimeout(() => {
         wrap(page);
-      }, 1000);
+      }, 2000);
     } else {
       console.log(`Task complete`);
       saveFile(objs);
