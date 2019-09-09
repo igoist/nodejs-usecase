@@ -19,3 +19,4 @@
 * demo0001 -- writeFile & readFile
 * demo0002 -- readdir
 * demo0003 -- rename
+* demo0004 -- count specific type files & file deep copy function
