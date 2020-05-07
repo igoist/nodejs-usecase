@@ -9,3 +9,5 @@ data/
 *.sed
 
 info.js
+
+**/.gitignore
