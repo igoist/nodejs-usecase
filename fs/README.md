@@ -17,6 +17,6 @@
 
 * demo0000 -- Basic
 * demo0001 -- writeFile & readFile
-* demo0002 -- readdir
+* demo0002 -- readdir & dirRead & analyzeDir
 * demo0003 -- rename
 * demo0004 -- count specific type files & file deep copy function

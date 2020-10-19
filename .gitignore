@@ -4,10 +4,19 @@ package-lock.json
 
 img/
 data/
+tmps/
 
 *.json
 *.sed
 
+*.jpg
+*.jpeg
+*.png
+
 info.js
 
 **/.gitignore
+
+**/**/test.js
+
+Services
