@@ -1,10 +1,9 @@
 const log = console.log.bind(this);
 
-const request = require('request');
 const cheerio = require('cheerio');
 const fs = require('fs');
 
-const fileName = `./tmps/tmp-1588819365867.html`;
+// const fileName = `./tmps/tmp-1588819365867.html`;
 let objs = [];
 
 const handleFile = (fileName, resultName) => {
@@ -41,7 +40,7 @@ const handleFile = (fileName, resultName) => {
 
     let tmpFileName = resultName || 'data/test.json';
 
-    fs.writeFile(tmpFileName, JSON.stringify(objs, null, 2), err => {
+    fs.writeFile(tmpFileName, JSON.stringify(objs, null, 2), (err) => {
       if (err) throw err;
       console.log(`The file ${tmpFileName} has been saved!`);
     });
@@ -51,7 +50,6 @@ const handleFile = (fileName, resultName) => {
 // handleFile(fileName);
 
 exports.handleFile = handleFile;
-
 
 // CjcIABADGgg0OT|YxNDU4NiCGgcr|1BTBFOIQ1QAByCTM5M|zAxMjA4Nn|gAqgEJYmlsbGJvYXJk0gEA
 // CjcIABADGgg0OT|U4MDIwMyDciMb|1BTBNOKUbQAFyCTM5M|jg1NzM2M3|gAqgEJYmlsbGJvYXJk0gEA

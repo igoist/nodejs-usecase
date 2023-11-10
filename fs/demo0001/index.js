@@ -22,17 +22,30 @@ for (let i = 0; i < length; i++) {
 
 // console.log(objs);
 // console.log(JSON.stringify(objs));
+const fileName = './map.json';
 
-
-fs.writeFile('map.json', JSON.stringify(objs, ['hex', 'obj', 'a'], 2), err => {
+fs.writeFile(fileName, JSON.stringify(objs, ['hex', 'obj', 'a'], 2), err => {
   if (err) throw err;
   console.log('The file has been saved!');
 });
 
 
-// fs.readFile('./map.json', (err, data) => {
+// fs.readFile(fileName, (err, data) => {
 //   if (err) throw err;
 //   // console.log(JSON.parse(data));
 //   let tmp = JSON.parse(data);
 //   console.log(tmp.)
+// });
+
+
+// maybe the file is not exists
+// fs.exists(fileName, exists => {
+//   if (exists) {
+//     fs.readFile(fileName, (err, data) => {
+//       if (err) throw err;
+//       // console.log(JSON.parse(data));
+//       let tmp = JSON.parse(data);
+//       console.log(tmp.)
+//     });
+//   }
 // });

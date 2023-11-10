@@ -10,7 +10,7 @@ let count = 0;
 
 // const rootPath = '/Users/Egoist/Documents/Pictures/';
 // const rootPath = '/Users/Egoist/Sites/Web/nav-map/';
-const rootPath = '/Users/Egoist/Documents/Pictures/素材/gif/';
+const rootPath = '/Users/Egoist/Documents/Pictures/素材/gif';
 // const rootPath = '/Users/Egoist/Documents/Pictures/猴急的小月欣🐒/';
 
 /**

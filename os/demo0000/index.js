@@ -31,8 +31,8 @@ log(os.arch());
 
 // log(os.tmpdir());
 
-// log(os.totalmem());
-// log(os.totalmem() / 1024 / 1024 / 1024.0);
+log(os.totalmem());
+log(os.totalmem() / 1024 / 1024 / 1024.0);
 
 // log(os.type());
 

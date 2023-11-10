@@ -11,12 +11,12 @@ const path = require('path');
 const perPage = 20;
 
 const cdnPath = 'http://img.hb.aicdn.com/';
-const downloadPath = './img';
+const downloadPath = './cat';
 
 let getPageImgs = (pageNum, perPage) => {
   // http://huaban.com/search/?q=%E7%85%A7%E7%89%87%E5%A2%99&jegvhmak&page=1&per_page=20&wfl=1
-  let url = 'http://huaban.com/search/?q=%E7%85%A7%E7%89%87%E5%A2%99&jegvhmak&page=' + pageNum + '&per_page=' + perPage + '&wfl=1';
-  {/* let url = 'http://huaban.com/search/?q=geek&page=' + pageNum + '&per_page=' + perPage + '&wfl=1'; */}
+  // let url = 'http://huaban.com/search/?q=%E7%85%A7%E7%89%87%E5%A2%99&jegvhmak&page=' + pageNum + '&per_page=' + perPage + '&wfl=1';
+  let url = 'http://huaban.com/search/?q=%E7%8C%AB&page=' + pageNum + '&per_page=' + perPage + '&wfl=1';
 
   http.get(url, res => {
 
@@ -87,8 +87,8 @@ let downloadImg = (imgDir, url) => {
     res.on('end', () => {
       let imgPath = path.resolve(imgDir, path.basename(url)) + '.jpeg';
       fs.writeFile(imgPath, data, 'binary', err => {
-        if (err) throw err;
-
+        // if (err) throw err;
+        if (err) return;
         console.log('Image downloaded: ', path.basename(url));
       });
     });
@@ -97,6 +97,6 @@ let downloadImg = (imgDir, url) => {
   });
 };
 
-for (let i = 1; i < 4; i++) {
+for (let i = 1; i < 100; i++) {
   getPageImgs(i, perPage);
 }

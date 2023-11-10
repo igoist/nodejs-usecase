@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const dirName = 'data190109';
+const dirName = 'data200410';
 
 const mode = 1;
 
@@ -68,7 +68,9 @@ if (mode === 0) {
   // const fileKey = 'data-d02-1535107787231';
   // const fileKey = 'data-d01-1535107778353';
   // const fileKey = 'data-d00-1535107768700';
-  const fileKey = 'data-d02-1546999227934';
+  const fileKey = 'data-d00-1550648622959';
+  // const fileKey = 'data-d01-1550648631211';
+  // const fileKey = 'data-d02-1550648645314';
 
 
   const inputFileName = `./${ dirName }/${ fileKey }.json`;

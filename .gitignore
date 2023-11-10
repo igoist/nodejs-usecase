@@ -20,3 +20,6 @@ info.js
 **/**/test.js
 
 Services
+
+*.mp3
+*.mp4
